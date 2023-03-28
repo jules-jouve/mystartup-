@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200;300;400&family=Roboto:wght@100;300;400&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{	
+	font-family: 'Bitter', serif;
+	margin: 0px;
+	background-color:	rgb(225,225,180);
+}
+
+
+
+
+
+h1, h2, h3, { 
+font-family: Roboto, sans-serif;
+font-weight: bold;
+font-size: 24px;
+}
+
+a { 
+text-decoration: none;
+ }
+
+ button { 
+ text-decoration: auto;
+  }
+   
+
+  p {
+  font-family: 'BITTER';
+    margin: auto 270px;
+    justify-content: center;
+    font-size: 15px;
+    margin: 45px 270px;
+     padding: 10px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.6);
+    border-radius: 6px;
+    color: white;
+    background-color: #23326A;
+  }
+
+  h3 {
+color: white;
+  }
+  
+  h4 {
+  	font-family: Roboto, sans-serif;
+font-weight: bold;
+font-size: 24px;
+margin: 20px 270px;
+
+  }
+
+  h5 {
+    font-family: 'BITTER';
+    font-size: 15px;
+    justify-content: center;
+  }
